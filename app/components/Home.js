@@ -9,7 +9,7 @@ class Home extends React.Component {
         <h2>Battle Your Developer Friends</h2>
         <p>
           Have a friendly comparison with some of your developers in your
-          community based on your GitHub contributions
+          community based on your GitHub Profile Stats
         </p>
         <Link className="button" to="/battle">
           Let's Battle!
